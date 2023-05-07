@@ -3,6 +3,7 @@
 public class Ex01while문 {
 
 	public static void main(String[] args) {
+		//while문
 		//1~5까지 출력
 		//반복문 
 		//1. while (do~while) : 특정 조건에 해당 할 경우에만 반복(반복횟수가 정확하지 않은 경우)
